@@ -1,5 +1,7 @@
 # Hugo Identity Theme
 
+**Original theme forked to support new Google Analytics G4A**
+
 Hugo Identity Theme is based on [Identity template by HTML5 UP](https://html5up.net/identity). It was ported to Hugo for training and fun. It is rather configurable and flexible despite it's simplicity.
 
 ## Demo
@@ -21,15 +23,20 @@ Hugo Identity Theme is based on [Identity template by HTML5 UP](https://html5up.
 
 ## Contents
 
-- [Installation](#installation)
-- [Getting started](#getting-started)
+- [Hugo Identity Theme](#hugo-identity-theme)
+  - [Demo](#demo)
+  - [Features](#features)
+  - [Screenshot](#screenshot)
+  - [Contents](#contents)
+  - [Installation](#installation)
+  - [Getting started](#getting-started)
     - [The config file](#the-config-file)
     - [Make the contact form working](#make-the-contact-form-working)
     - [Nearly finished](#nearly-finished)
-    - [Custom Styling](#custom-styling)
-- [Contributing](#contributing)
-- [License](#license)
-- [Annotations](#annotations)
+- [Custom Styling](#custom-styling)
+  - [Contributing](#contributing)
+  - [License](#license)
+  - [Annotations](#annotations)
 
 
 ## Installation
